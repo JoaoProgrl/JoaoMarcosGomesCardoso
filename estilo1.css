@@ -1,0 +1,17 @@
+* {
+  background-color: bisque; /*coloquei uma cor diferente em cada link pra diferenciar*/
+}
+
+h3 {
+  display: flex;
+  justify-content: center;
+  list-style-type: georgian;
+  align-items: center;
+  padding: 16px;
+  font-size: 35px;
+}
+
+p {
+  margin: 30px;
+  font-size: 20px;
+}
